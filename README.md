@@ -1,3 +1,3 @@
 # cmcexxexxe
 
-CMC script for work automation
+CMC scripts for work automation
